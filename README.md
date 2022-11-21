@@ -39,5 +39,5 @@ For real time data collection based on our implementation you should do the foll
 For any information and bug report please contact the author.
 
 Author: Alexander Shevtsov@University of Crete, Computer Science Department
-[E-mail contact](mailto:shevtsov@csd.uoc.gr)
+[E-mail](mailto:shevtsov@csd.uoc.gr)
 
