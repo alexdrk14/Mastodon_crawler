@@ -1,0 +1,2 @@
+Mastodon.py==1.6.1
+pymongo==4.3.2
